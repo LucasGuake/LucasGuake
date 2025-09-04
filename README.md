@@ -5,7 +5,18 @@
 
 
 
+
+
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGuake&show_icons=true&theme=tokyonight)
+
+
+
+
+
+
 
 
 
@@ -14,6 +25,15 @@
 ![](https://img.shields.io/badge/正在学习-C语言-yellow) 
 ![](https://img.shields.io/badge/喜欢-编程-red) 
 ![](https://img.shields.io/badge/爱好-网络相关-green)
+
+
+
+
+
+
+
+
+
 
 
 
