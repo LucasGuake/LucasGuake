@@ -1,5 +1,7 @@
 <div id="title" align=center>
 
+<br><br>  <!-- 增加两个换行 -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&pause=1000&center=true&vCenter=true&width=435&lines=LucasGuake)](https://github.com/LucasGuake)
 
 <br><br>  <!-- 增加两个换行 -->
