@@ -17,6 +17,3 @@
 
 
 </div>
-
-
-![背景](image/background.png)
