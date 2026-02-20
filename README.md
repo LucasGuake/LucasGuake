@@ -12,7 +12,7 @@
 
 ![](https://img.shields.io/badge/%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0-C++-yellow)
 ![](https://img.shields.io/badge/%E7%88%B1%E5%A5%BD-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-red)
-![](https://img.shields.io/badge/%E7%88%B1%E5%A5%BD-%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3-green)
+<a href="https://github.com/LucasGuake" target="_blank"><img  align=center src="https://img.shields.io/badge/已入门-C语言_| Python | 数据结构-%230090ff?style=flat"/></a>
 
 
 </div>
